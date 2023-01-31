@@ -46,4 +46,4 @@ What you should learn from this project:
 
 ## Author
 
-- **Ojok Simon Peter** - [Afande Ojok](https://github.com/jokmonsimon]
+- **Kendi Rita** - [https://github.com/ritakendi]
